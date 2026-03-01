@@ -61,7 +61,7 @@ This repository represents practical progress in my DevOps → Cloud Engineer jo
 | `greet.sh`         | Validates user input using function & return codes |
 | `check_file.sh`    | Checks file existence using function return status |
 | `loop_practice.sh` | Loop exercises including skip & break logic |
-
+| `revision_master.sh` |Shell revision: functions, return codes, file validation script |
 ---
 
 ## ⚙️ How to Run
